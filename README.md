@@ -11,6 +11,9 @@ Connecte larger leg of LED to pin 5 and shorter with pin 6 of arduino.
 
 ![ultrasonic_arduino_wiring](https://user-images.githubusercontent.com/39452340/46581930-be672480-ca5d-11e8-8706-2b24c421e3b8.png)
 
+![th](https://user-images.githubusercontent.com/39452340/46582129-f7a09400-ca5f-11e8-8ba2-3b5ab4a3eb44.jpg)
+
+
 Step 2: Parts List
 1               Arduino uno R3, or any Arduino for that matter
 1               SR04 Ultrasonic Sensor
